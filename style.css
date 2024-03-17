@@ -60,7 +60,7 @@ body {
     height: 50px;
 }
 .range-input input {
-    -webkit-appearance: none;
+    appearance: none;
     width: 200px;
     height: 2px;
     background-color: #e43f5a;
